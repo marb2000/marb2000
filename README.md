@@ -9,7 +9,7 @@ There is more. Visual Studio is always opened in my computer, in addition to oth
 
 These days I'm **leading all the WinUI strategy and execution to make the platform works with the Win32 app model**. If you are curious, read this [blog post](https://blogs.windows.com/windowsdeveloper/2020/07/07/a-deep-dive-into-winui-3-in-desktop-apps/). 
 
-More things about me. I'm from Spain, [Seville](https://en.wikipedia.org/wiki/Seville) (you should visit my hometown) and now I live in Seattle. I have a passion for computers since I was a kid. I learned how to create things programming in GWBASIC with 11 years old, and  I created my digital catalog for my Marvel comic book collection 12. When I was a teenager, around 15, I started to create video games in C language. Before being a PM I was a developer for several years, researcher,  developer advisor (software evangalist was called in the past), and Application Development Manager.
+More things about me. I'm from Spain, [Seville](https://en.wikipedia.org/wiki/Seville) (you should visit my hometown) and now I live in Seattle. I have a passion for computers since I was a kid. I learned how to create things programming in GWBASIC with 11 years old, and  I created my digital catalog for my Marvel comic book collection at 12. When I was a teenager, around 15, I started to create video games in C language and ASM. Before being a PM I was a developer for several years, researcher,  developer advisor (software evangalist was called in the past), and Application Development Manager.
 
 You can reach me here, in my [Twitter](https://twitter.com/marbtweeting) account, or [LinkedIn](https://www.linkedin.com/in/miguelrb/) 
 
