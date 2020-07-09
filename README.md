@@ -1,6 +1,6 @@
 ### Hi visitor 👋
 
-I'm a **Program Manager** working on the **WinUI product** at **Microsoft**. 
+I'm a [Program Manager](https://www.quora.com/What-is-program-management-at-Microsoft) (PM) working on the **WinUI product** at **Microsoft**. 
 
 WinUI is a U.I. Framework, so I work on the presentation layer area. This layer renders the controls, like a button, and makes it possible to click on it, to do an action. WinUI uses XAML as markup language because it is the evolution of UWP XAML, UWP XAML comes from SilverLight ( ⚰ R.I.P.), and SilverLight was the little brother of WPF. So  WinUI, UWP, and WPF have a lot in common and, as a consequence, I'm fluent in the 3 platforms. 
 WinUI also works with .NET and C++ so C# and C++ are the two languages more used by me.  Although being honest, I prefer write code in C#.
