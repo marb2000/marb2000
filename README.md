@@ -1,15 +1,11 @@
 ### Hi visitor 👋
 
-I'm a [Program Manager](https://www.quora.com/What-is-program-management-at-Microsoft) (PM) working on the **WinUI product** at **Microsoft**. 
+I'm a Product Manager (PM) working on **Microsoft's Windows App SDK and WinUI products** in the Windows Developer Experience team. My goal is to **enable developers can create great apps in Windows with exceptional user experiences**.   
 
-WinUI is a U.I. Framework, so I work on the presentation layer area. This layer renders the controls, like a button, and makes it possible to click on it, to do an action. WinUI uses XAML as markup language because it is the evolution of UWP XAML, UWP XAML comes from SilverLight ( ⚰ R.I.P.), and SilverLight was the little brother of WPF. So  WinUI, UWP, and WPF have a lot in common and, as a consequence, I'm fluent in the 3 platforms. 
-WinUI also works with .NET and C++ so C# and C++ are the two languages more used by me.  Although being honest, I prefer write code in C#.
+The Windows App SDK is an SDK for creating Windows apps, and one of its components is [WinUI](https://blogs.windows.com/windowsdeveloper/2020/07/07/a-deep-dive-into-winui-3-in-desktop-apps/).  WinUI is a UI Framework that uses XAML markup language for defining the UI layout, control, styles, animation, etc. WinUI is the evolution of UWP XAML, which comes from SilverLight ( ⚰ RIP), the little brother of WPF. WinUI also works with .NET and C++, so C# and C++/17 are the two languages I use more. Although being honest, I prefer to write code in C#.
+These days I'm coordinating the Windows App SDK and WinUI3, making sure we have the right features, product usage and growth, and the best possible quality.
 
-There is more. Visual Studio is always opened in my computer, in addition to other PM tools like PowerPoint, Word, Markdown editor. The reason is that **I create developer and user experiences to enable Windows developers can create great applications**.  Isn't that cool?
-
-These days I'm **leading all the WinUI strategy and execution to make the platform works with the Win32 app model**. If you are curious, read this [blog post](https://blogs.windows.com/windowsdeveloper/2020/07/07/a-deep-dive-into-winui-3-in-desktop-apps/). 
-
-More things about me. I'm from Spain, [Seville](https://en.wikipedia.org/wiki/Seville) (you should visit my hometown) and now I live in Seattle. I have a passion for computers since I was a kid. I learned how to create things programming in GWBASIC with 11 years old, and  I created my digital catalog for my Marvel comic book collection at 12. When I was a teenager, around 15, I started to create video games in C language and ASM. Before being a PM I was a developer for several years, researcher,  developer advisor (software evangelist was called in the past), and Application Development Manager.
+More things about me. I'm from Spain, [Seville](https://en.wikipedia.org/wiki/Seville) (you should visit my hometown), and now I live in Seattle. I fell in love with computers when I was a kid when I learned how to create things programming in GWBASIC at 11 years old. I created my digital catalog for my Marvel comic book collection at 12 (I love books and comics books). When I was a teenager, around 15, I created video games in C and ASM. Before being a Product Manager, I was a developer, researcher, developer evangelist, and application development manager for several years. Also, Microsoft rewarded me with the Valuable Profesional award in ASP.NET (.NET web development).
 
 You can reach me here, in my [Twitter](https://twitter.com/marbtweeting) account, or [LinkedIn](https://www.linkedin.com/in/miguelrb/) 
 
@@ -17,17 +13,3 @@ Thank you so much for reading this!
 
 -Miguel
 
-<!--
-**marb2000/marb2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
